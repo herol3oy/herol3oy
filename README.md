@@ -2,7 +2,7 @@
 <h3 align="left">A passionate full stack developer 👨‍💻</h3>
 
 
- 🌱 I’m currently learning **firebase functions**
+ 🌱 I’m currently learning **Firebase**
 
  ⚡ Fun fact **1st time yoga took 12 hrs 😅**
 
