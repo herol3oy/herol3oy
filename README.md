@@ -2,7 +2,7 @@
 <h3 align="left">A passionate front end developer 👨‍💻</h3>
 
 ## Favourite Technologies:
-React, Next, Nodejs, Express, Mongodb, Sass, Css Bootstrap
+React, Next, Node, Express, Mongodb, Sass, Css Bootstrap
 
 ## Connect:
 [Linkedin](https://www.linkedin.com/in/hamed-sedighi/)
